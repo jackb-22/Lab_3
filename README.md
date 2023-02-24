@@ -1,1 +1,4 @@
-import pygame
+# LAB 2
+## Description
+
+**Jack B**
