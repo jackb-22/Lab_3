@@ -1,4 +1,4 @@
 # LAB 2
-## Description
+## This should update in Git Hub
 
 **Jack B**
